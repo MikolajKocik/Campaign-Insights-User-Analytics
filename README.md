@@ -22,7 +22,7 @@ The report consists of two main pages:
 - [Authors](#authors)
 
 ## Campaign Summary 2024:
-![Page 1](img/Campaign%20summary%202024.png)
+![Page 1]()
 
 1) **Marketing channels**:
    - Opportunities to filter data by your chosen channels (Facebook, Google, Instagram, LinkedIn, Twitter).
