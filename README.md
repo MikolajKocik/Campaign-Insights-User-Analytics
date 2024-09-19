@@ -13,13 +13,13 @@ The report consists of two main pages:
 2. Second Hand Information: this second page consists of detailed analysis conversions, a numbers of page visitors also a profit analysis and number of visitors by country.
 
 ## Table of Contents
-- [Page 1](page%1)
-- [Page 2](page%2)
-- [Data sources](Data%sources)
-- [Instruction manual](Instrucion%manual)
-- [Crucial pointers (KPI)](Crucial%pointers%(KPI))
-- [System requirements](System%requirements)
-- [Authors](Authors)
+- [Page 1](#page%1)
+- [Page 2](#page%2)
+- [Data sources](#Data%sources)
+- [Instruction manual](#Instrucion%manual)
+- [Crucial pointers (KPI)](#Crucial%pointers%(KPI))
+- [System requirements](#System%requirements)
+- [Authors](#Authors)
 
 
 ## Campaing Summary 2024:
@@ -56,18 +56,21 @@ The report consists of two main pages:
   - Interactive map explains which country has a page visitor including USA, Canada, Germany, Great Britain moreover France.
 
 ## Data sources
+[Data sources]
 
 *Data used in the report are from different sources, including tools to monitoring campaign marketing and analysis of website conversions.
   - Marketing channels: Facebook, Google, Instagram, LinkedIn, Twitter
   - Sales data: markets like USA, Canada, Germany, Great Britain and France.
 
 ## Instruction manual
+[Instruction manual]
 
 1) Open the file project Power BI (Project.pbix format) in Microsoft Power BI Desktop.
 2) Use filter option avaible in the reports to search data about campaign and marketing channels you are interested in. 
 3) Use interactive visualizations (for example maps and charts), to analyze sales results and users interactions.
 
 ## Crucial pointers (KPI)
+[Crucial pointers]
 
 - Budget
 - Profit
@@ -75,11 +78,13 @@ The report consists of two main pages:
 - Page visitors
 
 ## System requirements
+[System requirements]
 
 - Microsoft Power BI Desktop (the newest version recommended)
 - Permissions to data sources if a project require a fresh data from other systems.
 
 ## Authors:
+[Authors]
 
 - Full name: Mikołaj Kocik
 - Contact: mikolajkocik@onet.pl
