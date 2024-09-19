@@ -22,7 +22,7 @@ The report consists of two main pages:
 - [Authors](#Authors)
 
 
-## Campaing Summary 2024:
+## Campaign Summary 2024:
 ![Page 1](img/Campaign%summary%2024.png)
 
 1) Marketing channels:
