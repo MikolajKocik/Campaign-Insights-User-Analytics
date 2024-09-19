@@ -55,21 +55,18 @@ The report consists of two main pages:
    - An interactive map showing which country has page visitors, including the USA, Canada, Germany, Great Britain, and France.
 
 ## Data sources
-[Data sources]
 
 Data used in the report comes from various sources, including tools for monitoring marketing campaigns and analyzing website conversions.
   - Marketing channels: Facebook, Google, Instagram, LinkedIn, Twitter
   - Sales data: markets such as USA, Canada, Germany, Great Britain, and France.
 
 ## Instruction manual
-[Instruction manual]
 
 1) Open the Power BI project file (Project.pbix format) in Microsoft Power BI Desktop.
 2) Use the filter option available in the reports to search for campaign and marketing channel data that interests you. 
 3) Use interactive visualizations (such as maps and charts) to analyze sales results and user interactions.
 
 ## Crucial pointers (KPI)
-[Crucial pointers]
 
 - Budget
 - Profit
@@ -77,13 +74,11 @@ Data used in the report comes from various sources, including tools for monitori
 - Page visitors
 
 ## System requirements
-[System requirements]
 
 - Microsoft Power BI Desktop (the newest version recommended)
 - Permissions to data sources if the project requires fresh data from other systems.
 
 ## Authors:
-[Authors]
 
 - Full name: Mikołaj Kocik
 - Contact: mikolajkocik@onet.pl
